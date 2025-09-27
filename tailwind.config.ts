@@ -11,6 +11,16 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        origin: {
+          purple: "#A0568C",
+          "purple-dark": "#8B4876",
+          gold: "#B8860B",
+          "gold-light": "#D4A017",
+          navy: "#2C3E80",
+          "navy-dark": "#1E2D5F",
+          gray: "#5A5A5A",
+          "gray-light": "#8A8A8A",
+        },
       },
     },
   },
