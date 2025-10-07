@@ -71,7 +71,7 @@ const blogPosts: BlogPost[] = [
     excerpt: '모든 요청을 수락하다 지쳐버린 당신을 위해. 관계를 해치지 않으면서도 건강한 경계를 설정하는 방법을 배워보세요.',
     category: '관계와 소통',
     author: 'Dr. 김민지',
-    date: '2024.01.05',
+    date: '2025.10.05',
     readTime: '6분',
     thumbnail: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
     tags: ['경계설정', '커뮤니케이션', '자기보호']
@@ -82,7 +82,7 @@ const blogPosts: BlogPost[] = [
     excerpt: '번아웃은 끝이 아니라 새로운 시작입니다. 번아웃을 극복하고 더 강하고 지혜로운 자신으로 성장한 사람들의 이야기.',
     category: '회복 스토리',
     author: '정수민 에디터',
-    date: '2024.01.03',
+    date: '2025.10.03',
     readTime: '10분',
     thumbnail: 'https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
     tags: ['회복사례', '성장', '동기부여']
