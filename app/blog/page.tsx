@@ -49,7 +49,7 @@ const blogPosts: BlogPost[] = [
     excerpt: '회의실에서, 지하철에서, 어디서든 할 수 있는 간단한 호흡법. 과학적으로 입증된 스트레스 해소 테크닉을 배워보세요.',
     category: '실천 팁',
     author: '박지영 트레이너',
-    date: '2025.09.10',
+    date: '2025.10.10',
     readTime: '3분',
     thumbnail: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
     tags: ['호흡법', '명상', '즉시실천']
@@ -60,7 +60,7 @@ const blogPosts: BlogPost[] = [
     excerpt: '번아웃을 예방하는 가장 좋은 방법은 나만의 충전 루틴을 만드는 것. 당신만의 에너지 충전소를 설계하는 방법을 알려드립니다.',
     category: '라이프스타일',
     author: '최서연 작가',
-    date: '2024.01.08',
+    date: '2025.10.08',
     readTime: '8분',
     thumbnail: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
     tags: ['루틴', '자기관리', '에너지']
