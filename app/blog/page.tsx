@@ -38,7 +38,7 @@ const blogPosts: BlogPost[] = [
     excerpt: '집에 와서도 일 생각이 떠나지 않나요? 일과 삶의 경계를 명확히 하고, 진정한 휴식을 취하는 실용적인 방법들을 소개합니다.',
     category: '회복 가이드',
     author: '이현우 코치',
-    date: '2024.01.12',
+    date: '2025.9.15',
     readTime: '7분',
     thumbnail: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
     tags: ['워라밸', '휴식', '일상회복']
